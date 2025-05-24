@@ -1,46 +1,58 @@
 <h1 align="center">Hey, I'm JD 👋</h1>
 <p align="center">
-  Self-taught Django Developer | Ex-Mining Engineer | Problem Solver & Systems Thinker
+  Backend Django Developer | Ex-Engineer | Systems Thinker & Automation Builder
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm a backend developer with 3+ years of hands-on Python/Django experience, and 20 years of prior work in the mining sector as a qualified Chemical Engineer.
+I'm a self-taught backend developer with 3+ years of experience building Django-based systems, and 20 years of experience as a Chemical Engineer in mining, operations, and consulting.
 
-I transitioned into coding full-time after years of automating reporting and analysis with Excel VBA. Now I work on production systems that integrate Django, DRF, PostgreSQL, AWS CloudWatch, and OpenAI (ChatGPT), built using test-driven development and YAML-driven logic flows.
-
-I’m focused on building robust, clean, and maintainable backend systems — and always learning something new.
+I specialise in test-driven Django development, DRF APIs, PostgreSQL databases, and integrations with OpenAI (ChatGPT) and Plotly Dash dashboards. I debug live systems with AWS CloudWatch and Log Insights, and build logic from YAML-powered workflows.
 
 ---
 
-### 💻 Tech Stack
+### 💼 Current Role
 
-- **Languages & Frameworks:** Python, Django, DRF, shell_plus
-- **Data & Reporting:** PostgreSQL, PGAdmin, Plotly Dash
-- **DevOps & Tooling:** AWS (CloudWatch, Log Insights), YAML, Git, GitHub
-- **Project Management:** Jira, ClickUp, Slack
-- **Practices:** Test Driven Development (TDD), flow-driven design, structured logging & docs
-
----
-
-### 🔨 What I'm Working On
-
-- Building production-ready Django services using custom YAML flow files
-- Integrating Plotly Dash & OpenAI ChatGPT to enhance app functionality
-- Rebuilding my personal website & portfolio (with a dev blog)
-- Exploring web scraping + embedding techniques for smart search
+**Backend Developer at rather.chat**  
+Cape Town / Remote | Jun 2024 – Present  
+• ChatGPT integration, custom dashboards, backend flows  
+• Took on internal process analysis & ops in 2024  
+• Returned to dev full-time in 2025 to focus on coding
 
 ---
 
-### 🧩 Fun Fact
+### 🛠 Tech Stack
 
-Before dev, I led technical consulting and process optimisation projects in mining. Now I use that same systems thinking to ship features, fix bugs, and simplify flows.
+- **Backend:** Python, Django, DRF, shell_plus
+- **Database:** PostgreSQL, PGAdmin
+- **Infra & Tools:** AWS CloudWatch, Log Insights, Git, YAML
+- **Reporting:** Plotly Dash, Swagger-style OpenAPI Viewer
+- **Dev Practices:** TDD, version control, flow-driven logging
+- **Workflow Tools:** ClickUp, Slack, Jira
 
 ---
 
-### 📫 Get in Touch
+### 📚 Courses & Certifications
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- 🧪 Coming soon: [My Personal Site & Blog](https://yourdomain.com)
+- Python Bootcamp (Udemy, 2023)  
+- SQL Bootcamp (Udemy, 2023)  
+- Agile Software Dev (Coursera, 2022)  
+- Robocorp Automation Developer Level 1 (2023)
+
+---
+
+### 🌍 Languages
+
+- English (Full Professional)  
+- Afrikaans (Full Professional)  
+- German (Elementary)
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/jd-gresse)  
+- 🧪 [My Portfolio](https://www.jdgresse.com) *(WIP)*  
+- 💬 Let’s collaborate on meaningful projects!
